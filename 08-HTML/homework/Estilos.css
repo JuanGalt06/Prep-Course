@@ -7,6 +7,7 @@ h1 {
 }
 img {
     width: 400px;
+    height:285px ;
 }
 h3 {
     color: yellow
@@ -18,10 +19,10 @@ span {
     color: yellow;
 }
 #thirdDiv{
-height: 600px;
-width: 500px;
-background-color: whitesmoke;
-padding: 50px;
+height: 590px;
+width: 440px;
+background-color: rgb(245, 245, 245);
+padding: 2px;
 border: 5px inset yellow;
 }
 #spanId {
