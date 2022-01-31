@@ -1,9 +1,12 @@
 html{
-    background-color: rgba(78, 20, 238, 0.829);
+    background-color: rgba(19, 101, 224, 0.829);
 }
 
 h1 {
     color: yellow;
+}
+img {
+    width: 400px;
 }
 h3 {
     color: yellow
@@ -15,5 +18,13 @@ span {
     color: yellow;
 }
 #thirdDiv{
-    
+height: 600px;
+width: 500px;
+background-color: whitesmoke;
+padding: 50px;
+border: 5px inset yellow;
+}
+#spanId {
+    font-size: 18px;
+    margin: 50px;
 }
