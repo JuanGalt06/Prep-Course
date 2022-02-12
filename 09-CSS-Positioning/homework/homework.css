@@ -46,8 +46,13 @@ archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
 
 /* Acá va tu código */
 #ejercicioCinco {
-    display: flexbox;
-    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+   
+    
+    
+
     
 }
 
